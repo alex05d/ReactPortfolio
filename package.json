@@ -2,7 +2,7 @@
   "name": "resume",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://alex05d.github.io/react_portfolio/",
+  "homepage": "https://alex05d.github.io/ReactPortfolio/",
   "dependencies": {
     "react": "^16.6.0",
     "react-dom": "^16.6.0",
